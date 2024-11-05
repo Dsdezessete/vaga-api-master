@@ -1,7 +1,7 @@
 {
   "name": "vaga-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Para criar um projeto utilizando Express.js para desenvolver uma API RESTful para a entidade Aluno, siga os passos abaixo. Este guia inclui a configuração do projeto, a criação do servidor Express, a implementação das rotas e a manipulação dos dados.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec node server.js"
@@ -11,6 +11,17 @@
   "dependencies": {
     "express": "^4.19.2",
     "nodemon": "^3.1.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
     "uuidv4": "^6.2.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsdezessete/vaga-api-master.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Dsdezessete/vaga-api-master/issues"
+  },
+  "homepage": "https://github.com/Dsdezessete/vaga-api-master#readme"
 }
