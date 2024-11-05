@@ -102,7 +102,7 @@ app.listen(port, () => {
 Passo 7: Inicie o Servidor
 No terminal, execute o seguinte comando para iniciar o servidor:
 
-node src/index.js
+node app
 
 6. Testando a API
 
