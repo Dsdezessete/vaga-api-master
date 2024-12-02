@@ -29,6 +29,7 @@ function createTables() {
             console.log('Tabela alunos criada com sucesso ou já existente');
         }
     });
+    
 }
 
 module.exports = db;
