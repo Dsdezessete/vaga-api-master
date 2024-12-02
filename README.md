@@ -90,3 +90,6 @@ A documentação da API está disponível através do Swagger. Você pode acess�
 ***Laine Souza***
 
 ***Carlos Crispim***
+
+***Thales Amorim***
+
